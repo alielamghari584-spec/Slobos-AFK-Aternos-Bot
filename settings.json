@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "realsmp-Vubn.aternos.me:48658",
+    "port": 48658,
     "version": "",
     "try-creative": false
   },
